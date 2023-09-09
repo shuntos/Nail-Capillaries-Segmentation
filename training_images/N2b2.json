@@ -1,0 +1,628 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "a",
+      "points": [
+        [
+          377.6559485530547,
+          85.53215434083602
+        ],
+        [
+          377.3344051446946,
+          103.53858520900322
+        ],
+        [
+          386.01607717041804,
+          119.61575562700965
+        ],
+        [
+          383.76527331189715,
+          152.7347266881029
+        ],
+        [
+          383.443729903537,
+          176.85048231511257
+        ],
+        [
+          379.26366559485535,
+          197.7508038585209
+        ],
+        [
+          371.5466237942122,
+          213.50643086816723
+        ],
+        [
+          362.86495176848877,
+          202.57395498392282
+        ],
+        [
+          361.57877813504825,
+          195.17845659163987
+        ],
+        [
+          359.9710610932476,
+          177.1720257234727
+        ],
+        [
+          358.363344051447,
+          154.34244372990355
+        ],
+        [
+          356.75562700964633,
+          126.6897106109325
+        ],
+        [
+          357.07717041800646,
+          101.28778135048232
+        ],
+        [
+          361.9003215434084,
+          89.06913183279742
+        ],
+        [
+          373.7974276527331,
+          81.67363344051446
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "a",
+      "points": [
+        [
+          318.81350482315116,
+          84.88906752411576
+        ],
+        [
+          315.91961414791,
+          94.21382636655949
+        ],
+        [
+          316.8842443729904,
+          113.82797427652733
+        ],
+        [
+          318.1704180064309,
+          125.40353697749195
+        ],
+        [
+          319.4565916398714,
+          140.19453376205786
+        ],
+        [
+          321.06430868167206,
+          151.12700964630227
+        ],
+        [
+          325.56591639871385,
+          168.49035369774919
+        ],
+        [
+          326.2090032154341,
+          181.35209003215436
+        ],
+        [
+          326.85209003215436,
+          192.28456591639872
+        ],
+        [
+          332.9614147909968,
+          201.93086816720256
+        ],
+        [
+          340.6784565916399,
+          198.07234726688102
+        ],
+        [
+          348.71704180064313,
+          176.85048231511257
+        ],
+        [
+          349.3601286173634,
+          154.02090032154342
+        ],
+        [
+          349.3601286173634,
+          136.65755627009645
+        ],
+        [
+          347.75241157556275,
+          116.07877813504824
+        ],
+        [
+          345.823151125402,
+          92.28456591639872
+        ],
+        [
+          340.35691318327974,
+          80.06591639871382
+        ],
+        [
+          335.5337620578778,
+          75.56430868167203
+        ],
+        [
+          324.9228295819936,
+          75.56430868167203
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "a",
+      "points": [
+        [
+          412.70418006430873,
+          93.2491961414791
+        ],
+        [
+          410.77491961414796,
+          109.96945337620579
+        ],
+        [
+          410.45337620578783,
+          136.0144694533762
+        ],
+        [
+          410.77491961414796,
+          159.16559485530547
+        ],
+        [
+          411.0964630225081,
+          191.31993569131834
+        ],
+        [
+          414.31189710610937,
+          206.11093247588423
+        ],
+        [
+          421.7073954983923,
+          211.57717041800646
+        ],
+        [
+          428.78135048231513,
+          200.32315112540192
+        ],
+        [
+          438.7491961414791,
+          168.8118971061093
+        ],
+        [
+          437.7845659163987,
+          151.77009646302253
+        ],
+        [
+          437.7845659163987,
+          131.83440514469453
+        ],
+        [
+          436.1768488745981,
+          116.7218649517685
+        ],
+        [
+          431.6752411575563,
+          101.60932475884245
+        ],
+        [
+          426.53054662379424,
+          92.60610932475885
+        ],
+        [
+          421.06430868167206,
+          87.78295819935691
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "a",
+      "points": [
+        [
+          451.6109324758843,
+          80.70900321543408
+        ],
+        [
+          449.3601286173634,
+          86.17524115755627
+        ],
+        [
+          450.32475884244377,
+          117.04340836012862
+        ],
+        [
+          452.8971061093248,
+          158.2009646302251
+        ],
+        [
+          455.1479099678457,
+          171.70578778135047
+        ],
+        [
+          462.54340836012864,
+          167.84726688102893
+        ],
+        [
+          468.0096463022508,
+          150.483922829582
+        ],
+        [
+          472.8327974276528,
+          127.01125401929262
+        ],
+        [
+          471.8681672025724,
+          110.29099678456592
+        ],
+        [
+          475.4051446945338,
+          89.71221864951768
+        ],
+        [
+          469.9389067524116,
+          82.31672025723473
+        ],
+        [
+          461.57877813504825,
+          79.10128617363344
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "a",
+      "points": [
+        [
+          84.40836012861736,
+          63.345659163987136
+        ],
+        [
+          85.37299035369776,
+          78.13665594855306
+        ],
+        [
+          84.40836012861736,
+          98.07234726688104
+        ],
+        [
+          86.01607717041801,
+          124.7604501607717
+        ],
+        [
+          87.30225080385853,
+          145.33922829581996
+        ],
+        [
+          91.80385852090032,
+          159.4871382636656
+        ],
+        [
+          105.95176848874598,
+          159.4871382636656
+        ],
+        [
+          107.2379421221865,
+          147.911575562701
+        ],
+        [
+          113.9903536977492,
+          128.94051446945338
+        ],
+        [
+          109.81028938906753,
+          103.21704180064309
+        ],
+        [
+          108.20257234726688,
+          77.17202572347267
+        ],
+        [
+          104.66559485530547,
+          63.345659163987136
+        ],
+        [
+          91.80385852090032,
+          56.59324758842443
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "a",
+      "points": [
+        [
+          111.41800643086818,
+          58.522508038585215
+        ],
+        [
+          114.95498392282958,
+          72.34887459807074
+        ],
+        [
+          121.06430868167203,
+          104.5032154340836
+        ],
+        [
+          128.45980707395498,
+          133.7636655948553
+        ],
+        [
+          137.7845659163987,
+          136.65755627009645
+        ],
+        [
+          144.5369774919614,
+          115.11414790996785
+        ],
+        [
+          142.92926045016077,
+          88.42604501607717
+        ],
+        [
+          136.49839228295818,
+          61.09485530546624
+        ],
+        [
+          130.38906752411575,
+          54.663987138263664
+        ],
+        [
+          120.7427652733119,
+          49.840836012861736
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "a",
+      "points": [
+        [
+          161.7920792079208,
+          88.81683168316832
+        ],
+        [
+          164.26732673267324,
+          169.01485148514854
+        ],
+        [
+          165.75247524752476,
+          206.63861386138615
+        ],
+        [
+          185.55445544554456,
+          225.94554455445547
+        ],
+        [
+          192.4851485148515,
+          205.1534653465347
+        ],
+        [
+          194.96039603960398,
+          146.24257425742576
+        ],
+        [
+          191.49504950495052,
+          120.5
+        ],
+        [
+          183.57425742574256,
+          98.22277227722773
+        ],
+        [
+          173.67326732673266,
+          89.80693069306932
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "a",
+      "points": [
+        [
+          283.02334630350197,
+          92.77626459143971
+        ],
+        [
+          275.24124513618676,
+          122.73735408560313
+        ],
+        [
+          274.07392996108956,
+          143.7490272373541
+        ],
+        [
+          273.6848249027238,
+          165.92801556420235
+        ],
+        [
+          281.4669260700389,
+          194.33268482490274
+        ],
+        [
+          298.1984435797666,
+          212.23151750972764
+        ],
+        [
+          309.8715953307393,
+          220.01361867704284
+        ],
+        [
+          316.0972762645914,
+          206.0058365758755
+        ],
+        [
+          316.0972762645914,
+          166.3171206225681
+        ],
+        [
+          309.09338521400775,
+          135.57782101167317
+        ],
+        [
+          306.36964980544747,
+          106.784046692607
+        ],
+        [
+          307.5369649805448,
+          88.1070038910506
+        ],
+        [
+          296.6420233463035,
+          79.15758754863813
+        ],
+        [
+          286.5252918287938,
+          86.55058365758757
+        ],
+        [
+          281.0778210116732,
+          96.27821011673151
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "a",
+      "points": [
+        [
+          201.15037593984965,
+          87.41729323308272
+        ],
+        [
+          202.6541353383459,
+          107.34210526315789
+        ],
+        [
+          198.89473684210526,
+          143.0563909774436
+        ],
+        [
+          200.3984962406015,
+          178.77067669172934
+        ],
+        [
+          207.16541353383462,
+          202.45488721804512
+        ],
+        [
+          213.9323308270677,
+          217.49248120300754
+        ],
+        [
+          225.58646616541358,
+          161.47744360902257
+        ],
+        [
+          226.71428571428572,
+          109.97368421052633
+        ],
+        [
+          226.71428571428572,
+          81.77819548872182
+        ],
+        [
+          219.1954887218045,
+          74.2593984962406
+        ],
+        [
+          194.75939849624064,
+          81.0263157894737
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "a",
+      "points": [
+        [
+          46.55555555555557,
+          110.77777777777779
+        ],
+        [
+          44.571428571428584,
+          125.85714285714288
+        ],
+        [
+          44.17460317460319,
+          147.6825396825397
+        ],
+        [
+          64.41269841269843,
+          192.12698412698415
+        ],
+        [
+          91.00000000000001,
+          259.1904761904762
+        ],
+        [
+          109.65079365079366,
+          273.87301587301585
+        ],
+        [
+          119.17460317460318,
+          261.1746031746032
+        ],
+        [
+          113.61904761904763,
+          220.3015873015873
+        ],
+        [
+          78.30158730158733,
+          164.74603174603175
+        ],
+        [
+          74.73015873015875,
+          125.46031746031748
+        ],
+        [
+          69.96825396825399,
+          115.14285714285715
+        ],
+        [
+          62.03174603174605,
+          102.04761904761905
+        ],
+        [
+          50.12698412698414,
+          97.68253968253968
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "N2b2.jpg",
+  "imageData": "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",
+  "imageHeight": 291,
+  "imageWidth": 482
+}
