@@ -1,6 +1,6 @@
 
 
-# Generate training images and labelled json file
+# Generate training images and labelled json files
 ```
 python3 generate_training_dataset.py
 ```
